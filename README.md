@@ -1,7 +1,7 @@
 # HackathonIdeas
 
 * [Our hackathon](https://raw.githubusercontent.com/PhumlaniDev/HackathonIdeas/master/IMG_20200915_094124.jpg)
-### This is our Health Care System idea that we can with for the Hackathon
+This is our Health Care System idea that we can with for the Hackathon
 
 * [Roxy persona - The Pharmacist](https://raw.githubusercontent.com/PhumlaniDev/HackathonIdeas/master/IMG_20200915_094140.jpg)
 
